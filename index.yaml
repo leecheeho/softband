@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  grpc-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-01T08:30:21.776137431Z"
+    description: A Helm chart for Kubernetes
+    digest: a19700172a7828817c975fd558a216b87931d94ea48c6d004dd42a39aac5cd24
+    name: grpc-app
+    type: application
+    urls:
+    - https://leecheeho.github.io/softband/grpc-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-04-01T08:30:21.775377285Z"
